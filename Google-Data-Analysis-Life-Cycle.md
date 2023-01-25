@@ -1,4 +1,5 @@
 # Google Data Analysis Life Cycle:
+the process of going from data to decision
 
 ## Ask: Business Challenge/Objective/Question
 First up, the analysts needed to define what the project would look like and what would qualify as a successful result. So, to determine these things, they asked effective questions and collaborated with leaders and managers who were interested in the outcome of their people analysis. These were the kinds of questions they asked:
