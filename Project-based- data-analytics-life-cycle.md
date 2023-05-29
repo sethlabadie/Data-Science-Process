@@ -1,4 +1,4 @@
-#Project-based data analytics life cycle 
+# Project-based data analytics life cycle 
 
 A project-based data analytics life cycle has five simple steps:
 
