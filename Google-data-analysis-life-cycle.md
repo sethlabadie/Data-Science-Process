@@ -65,3 +65,13 @@ Standardize the hiring and evaluation process for employees based on the most ef
 Conduct the same survey annually and compare results with those from the previous year. 
 
 A year later, the same survey was distributed to employees. Analysts anticipated that a comparison between the two sets of results would indicate that the action plan worked. Turns out, the changes improved the retention rate for new employees and the actions taken by leaders were successful!
+
+
+
+# The five key aspects to analytical thinking:
+Visualization
+Strategy
+Problem-orientation
+Correlation
+Big-picture and detail-oriented thinking
+
