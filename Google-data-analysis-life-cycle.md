@@ -69,9 +69,14 @@ A year later, the same survey was distributed to employees. Analysts anticipated
 
 #
 # The five key aspects to analytical thinking:
-# Visualization
-# Strategy
-# Problem-orientation
-# Correlation
-# Big-picture and detail-oriented thinking
+
+Visualization
+
+Strategy
+
+Problem-orientation
+
+Correlation
+
+Big-picture and detail-oriented thinking
 
