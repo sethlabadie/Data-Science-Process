@@ -80,3 +80,15 @@ Correlation
 
 Big-picture and detail-oriented thinking
 
+#
+# Analytical Skills Table:
+
+Curiosity: a desire to know more about something, asking the right questions
+
+Understanding context: understanding where information fits into the “big picture”
+
+Having a technical mindset: breaking big things into smaller steps
+
+Data design: thinking about how to organize data and information
+
+Data strategy: thinking about the people, processes, and tools used in data analysis
